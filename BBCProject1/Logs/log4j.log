@@ -1,0 +1,38 @@
+2022-03-18 17:04:31 INFO  Log:11 - =====================================Verify the Home Button of BBC news TEST START=========================================
+2022-03-18 17:04:31 INFO  Log:22 - Verify if Home Button is visible
+2022-03-18 17:04:31 INFO  Log:22 - verify the welcome text is visible
+2022-03-18 17:04:31 INFO  Log:22 - verify the sport is visible
+2022-03-18 17:04:32 INFO  Log:22 - verifying the actual and expected url
+2022-03-18 17:04:36 INFO  Log:11 - =====================================Verify the day and date TEST START=========================================
+2022-03-18 17:04:41 INFO  Log:11 - =====================================Verify the page title for News tab TEST START=========================================
+2022-03-18 17:04:43 INFO  Log:22 - verifying the actual and expected url
+2022-03-18 17:04:46 INFO  Log:11 - =====================================Verify the page title for News tab TEST START=========================================
+2022-03-18 17:25:34 INFO  Log:11 - =====================================Verify the Home Button of BBC news TEST START=========================================
+2022-03-18 17:25:35 INFO  Log:22 - Verify if Home Button is visible
+2022-03-18 17:25:36 INFO  Log:22 - verify the welcome text is visible
+2022-03-18 17:25:36 INFO  Log:22 - verify the sport is visible
+2022-03-18 17:25:36 INFO  Log:22 - verifying the actual and expected url
+2022-03-18 17:27:33 INFO  Log:11 - =====================================Verify the Home Button of BBC news TEST START=========================================
+2022-03-18 17:27:34 INFO  Log:22 - Verify if Home Button is visible
+2022-03-18 17:27:34 INFO  Log:22 - verify the welcome text is visible
+2022-03-18 17:27:34 INFO  Log:22 - verify the sport is visible
+2022-03-18 17:27:34 INFO  Log:22 - verifying the actual and expected url
+2022-03-18 17:29:11 INFO  Log:11 - =====================================Verify the Home Button of BBC news TEST START=========================================
+2022-03-18 17:29:12 INFO  Log:22 - Verify if Home Button is visible
+2022-03-18 17:29:12 INFO  Log:22 - verify the welcome text is visible
+2022-03-18 17:29:12 INFO  Log:22 - verify the sport is visible
+2022-03-18 17:29:12 INFO  Log:22 - verifying the actual and expected url
+2022-03-18 17:31:58 INFO  Log:11 - =====================================Verify the Home Button of BBC news TEST START=========================================
+2022-03-18 17:31:59 INFO  Log:22 - Verify if Home Button is visible
+2022-03-18 17:31:59 INFO  Log:22 - verify the welcome text is visible
+2022-03-18 17:31:59 INFO  Log:22 - verify the sport is visible
+2022-03-18 17:31:59 INFO  Log:22 - verifying the actual and expected url
+2022-03-18 18:50:18 INFO  Log:11 - =====================================Verify the Home Button of BBC news TEST START=========================================
+2022-03-18 18:50:19 INFO  Log:22 - Verify if Home Button is visible
+2022-03-18 18:50:19 INFO  Log:22 - verify the welcome text is visible
+2022-03-18 18:50:19 INFO  Log:22 - verify the sport is visible
+2022-03-18 18:50:19 INFO  Log:22 - verifying the actual and expected url
+2022-03-18 18:50:24 INFO  Log:11 - =====================================Verify the day and date TEST START=========================================
+2022-03-18 18:50:29 INFO  Log:11 - =====================================Verify the page title for News tab TEST START=========================================
+2022-03-18 18:50:31 INFO  Log:22 - verifying the actual and expected url
+2022-03-18 18:50:35 INFO  Log:11 - =====================================Verify the page title for News tab TEST START=========================================

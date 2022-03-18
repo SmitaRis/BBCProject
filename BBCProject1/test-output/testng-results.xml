@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="6" total="10" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-18T19:55:04 GMT" name="Suite" finished-at="2022-03-18T19:55:28 GMT" duration-ms="23901">
+    <groups>
+    </groups>
+    <test started-at="2022-03-18T19:55:04 GMT" name="Test" finished-at="2022-03-18T19:55:28 GMT" duration-ms="23901">
+      <class name="com.bbcproject.testcases.VerifyNewsSearch">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.bbcproject.testcases.VerifyNewsSearch@770d3326]" started-at="2022-03-18T19:55:20 GMT" name="setup" finished-at="2022-03-18T19:55:24 GMT" duration-ms="3717" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyNewsSearch()[pri:0, instance:com.bbcproject.testcases.VerifyNewsSearch@770d3326]" started-at="2022-03-18T19:55:24 GMT" name="verifyNewsSearch" finished-at="2022-03-18T19:55:28 GMT" duration-ms="3399" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNewsSearch -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.bbcproject.testcases.VerifyNewsSearch@770d3326]" started-at="2022-03-18T19:55:28 GMT" name="tearDown" finished-at="2022-03-18T19:55:28 GMT" duration-ms="380" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.bbcproject.testcases.VerifyNewsSearch -->
+      <class name="com.bbcproject.testcases.VerifyDayDate">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.bbcproject.testcases.VerifyDayDate@6a370f4]" started-at="2022-03-18T19:55:10 GMT" name="setup" finished-at="2022-03-18T19:55:13 GMT" duration-ms="3439" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyDayDate()[pri:0, instance:com.bbcproject.testcases.VerifyDayDate@6a370f4]" started-at="2022-03-18T19:55:13 GMT" name="verifyDayDate" finished-at="2022-03-18T19:55:15 GMT" duration-ms="1441" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDayDate -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.bbcproject.testcases.VerifyDayDate@6a370f4]" started-at="2022-03-18T19:55:15 GMT" name="tearDown" finished-at="2022-03-18T19:55:15 GMT" duration-ms="250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.bbcproject.testcases.VerifyDayDate -->
+      <class name="com.bbcproject.testcases.VerifyNewsPageTitle">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.bbcproject.testcases.VerifyNewsPageTitle@2abf4075]" started-at="2022-03-18T19:55:15 GMT" name="setup" finished-at="2022-03-18T19:55:19 GMT" duration-ms="3423" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyHomePage()[pri:0, instance:com.bbcproject.testcases.VerifyNewsPageTitle@2abf4075]" started-at="2022-03-18T19:55:19 GMT" name="verifyHomePage" finished-at="2022-03-18T19:55:20 GMT" duration-ms="1644" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.bbcproject.testcases.VerifyNewsPageTitle@2abf4075]" started-at="2022-03-18T19:55:20 GMT" name="tearDown" finished-at="2022-03-18T19:55:20 GMT" duration-ms="301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.bbcproject.testcases.VerifyNewsPageTitle -->
+      <class name="com.bbcproject.testcases.BBCHomePageTest">
+        <test-method is-config="true" signature="loadConfig()[pri:0, instance:com.bbcproject.testcases.BBCHomePageTest@503d687a]" started-at="2022-03-18T19:55:04 GMT" name="loadConfig" finished-at="2022-03-18T19:55:04 GMT" duration-ms="280" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadConfig -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.bbcproject.testcases.BBCHomePageTest@503d687a]" started-at="2022-03-18T19:55:04 GMT" name="setup" finished-at="2022-03-18T19:55:08 GMT" duration-ms="4253" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyHomePage()[pri:0, instance:com.bbcproject.testcases.BBCHomePageTest@503d687a]" started-at="2022-03-18T19:55:08 GMT" name="verifyHomePage" finished-at="2022-03-18T19:55:10 GMT" duration-ms="1255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.bbcproject.testcases.BBCHomePageTest@503d687a]" started-at="2022-03-18T19:55:10 GMT" name="tearDown" finished-at="2022-03-18T19:55:10 GMT" duration-ms="352" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:com.bbcproject.testcases.BBCHomePageTest@503d687a]" started-at="2022-03-18T19:55:28 GMT" name="afterSuite" finished-at="2022-03-18T19:55:28 GMT" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.bbcproject.testcases.BBCHomePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
